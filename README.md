@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Type-Standalone%20Single--File-121011?style=for-the-badge&logoColor=E50914&labelColor=121011" />
 </p>
 
-# SpaceBeast Analyzer
-
 Высокопроизводительный кроссплатформенный анализатор дискового пространства и утилита комплексной очистки накопителей.
 
 **Автор:** *La Bête du Gévaudan*  
