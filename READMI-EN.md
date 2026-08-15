@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Type-Standalone%20Single--File-121011?style=for-the-badge&logoColor=E50914&labelColor=121011" />
 </p>
 
-# SpaceBeast Analyzer
-
 High-performance cross-platform disk space analyzer and comprehensive storage cleanup utility.
 
 **Author:** *La Bête du Gévaudan*  
